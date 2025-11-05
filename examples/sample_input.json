@@ -1,0 +1,6 @@
+{
+  "filters": {"team":"ml"},
+  "rows": [{"team":"ml","doc_id":"a1"}],
+  "query": "ml retrieval",
+  "docs": ["ml retrieval doc", "billing handbook"]
+}
